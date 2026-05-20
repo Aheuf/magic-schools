@@ -1,0 +1,1012 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Quand un problème apparaît dans un groupe, quelle est ta réaction naturelle ?",
+      "reponses": [
+        {
+          "textuel": "J’essaie d’organiser tout le monde pour éviter que la situation empire.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "J’observe, je pose des questions et je cherche la cause du problème.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Je cherche rapidement qui a le contrôle de la situation et comment en tirer avantage.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "J’agis tout de suite, quitte à corriger ensuite si nécessaire.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Je laisse les choses se stabiliser naturellement avant d’intervenir.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Tu as une journée libre sans obligation. Que fais-tu en priorité ?",
+      "reponses": [
+        {
+          "textuel": "Je passe du temps avec mes proches ou j’aide quelqu’un.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "J’apprends quelque chose, je lis, je teste ou je perfectionne une compétence.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "J’avance sur un objectif personnel important.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Je fais quelque chose d’imprévu, spontané ou intense.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Je me repose, je marche, je cuisine ou je profite simplement du moment.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Lors d’un désaccord, qu’est-ce qui compte le plus pour toi ?",
+      "reponses": [
+        {
+          "textuel": "Trouver une solution juste pour tout le monde.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Comprendre précisément pourquoi les avis divergent.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Défendre ma position et ne pas me faire marcher dessus.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Dire franchement ce que je pense, sans trop tourner autour du pot.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Retrouver un équilibre simple et éviter de forcer les choses.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Quelle qualité admires-tu le plus chez un leader ?",
+      "reponses": [
+        {
+          "textuel": "Sa capacité à protéger et à rassembler.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Sa capacité à réfléchir clairement avant d’agir.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Sa capacité à prendre des décisions difficiles sans hésiter.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Sa capacité à inspirer, motiver et déclencher l’action.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Sa capacité à respecter les rythmes, les personnes et l’expérience.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Face à un changement inattendu, tu as plutôt tendance à...",
+      "reponses": [
+        {
+          "textuel": "Maintenir un cadre stable pour que personne ne soit perdu.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Collecter des informations avant de décider quoi faire.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Identifier les nouvelles opportunités que ce changement crée.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "M’adapter vite, même sans avoir toutes les réponses.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Accepter que les choses évoluent et retrouver un nouvel équilibre.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "multi",
+      "question": "Qu’est-ce qui te motive le plus dans un projet ?",
+      "reponses": [
+        {
+          "textuel": "Créer quelque chose d’utile aux autres.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Comprendre, améliorer et optimiser le fonctionnement.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Atteindre un résultat fort et visible.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Vivre une expérience stimulante et personnelle.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Construire quelque chose de durable et authentique.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Quand tu commences quelque chose de nouveau, quelle approche te ressemble le plus ?",
+      "reponses": [
+        {
+          "textuel": "Je définis un cadre clair et des étapes simples.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Je me renseigne beaucoup avant de commencer sérieusement.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Je cherche d’abord ce que je peux y gagner ou obtenir.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Je commence rapidement pour apprendre en faisant.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Je laisse le projet prendre forme progressivement.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Après un échec, quelle réaction te vient le plus naturellement ?",
+      "reponses": [
+        {
+          "textuel": "Réparer les dégâts et soutenir les personnes touchées.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Analyser précisément ce qui n’a pas fonctionné.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Protéger mes intérêts et éviter que ça me pénalise trop.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Ressentir fortement la frustration, puis repartir rapidement.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Accepter que cela fasse partie du chemin et continuer autrement.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "mono",
+      "question": "Dans quel type d’environnement te sens-tu le plus à ta place ?",
+      "reponses": [
+        {
+          "textuel": "Un environnement solidaire, stable et bien organisé.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Un environnement intelligent, curieux et stimulant.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Un environnement compétitif où chacun peut prouver sa valeur.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Un environnement libre, vivant et imprévisible.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Un environnement simple, naturel et profondément familier.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "parcours": ["debutant", "amateur", "confirme"],
+      "type": "multi",
+      "question": "Quels mots tes proches pourraient-ils utiliser pour te décrire ?",
+      "reponses": [
+        {
+          "textuel": "Fiable et protecteur.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Curieux et réfléchi.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Ambitieux et indépendant.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Passionné et spontané.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Calme et authentique.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "parcours": ["amateur", "confirme"],
+      "type": "mono",
+      "question": "Pour toi, avoir du pouvoir signifie surtout...",
+      "reponses": [
+        {
+          "textuel": "Avoir la responsabilité de protéger les autres.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Avoir les moyens de comprendre et d’améliorer le monde.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Avoir la liberté d’imposer sa volonté.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Avoir l’énergie de briser ce qui nous limite.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Avoir une place naturelle dans un ensemble plus grand.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "parcours": ["amateur", "confirme"],
+      "type": "mono",
+      "question": "Une règle te semble injuste. Que fais-tu ?",
+      "reponses": [
+        {
+          "textuel": "Je cherche à la faire changer proprement avec les personnes concernées.",
+          "couleurs": ["blanc", "bleu"]
+        },
+        {
+          "textuel": "Je l’étudie pour trouver ses failles ou ses limites.",
+          "couleurs": ["bleu", "noir"]
+        },
+        {
+          "textuel": "Je la contourne si elle m’empêche d’avancer.",
+          "couleurs": ["noir", "rouge"]
+        },
+        {
+          "textuel": "Je m’y oppose directement si elle me semble absurde.",
+          "couleurs": ["rouge", "vert"]
+        },
+        {
+          "textuel": "Je regarde d’abord pourquoi elle existe avant de la rejeter.",
+          "couleurs": ["vert", "blanc"]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "parcours": ["amateur", "confirme"],
+      "type": "mono",
+      "question": "Quand une décision comporte un risque, tu préfères...",
+      "reponses": [
+        {
+          "textuel": "Choisir l’option la plus sûre pour le groupe.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Réduire l’incertitude avec des informations fiables.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Prendre le risque si le gain potentiel est assez important.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Suivre ton élan si tu sens que c’est le bon moment.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Évaluer si ce risque respecte le rythme naturel des choses.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "parcours": ["amateur", "confirme"],
+      "type": "multi",
+      "question": "Qu’est-ce qui te frustre le plus chez les autres ?",
+      "reponses": [
+        {
+          "textuel": "L’égoïsme et le manque de respect du collectif.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "L’ignorance volontaire et le refus d’apprendre.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "La faiblesse de volonté et le manque d’ambition.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "La froideur, l’hypocrisie et le manque de sincérité.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Le fait de vouloir tout contrôler au lieu de laisser vivre.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "parcours": ["amateur", "confirme"],
+      "type": "mono",
+      "question": "Dans une équipe, quel rôle prends-tu le plus facilement ?",
+      "reponses": [
+        {
+          "textuel": "Celui qui coordonne, soutient et garde le groupe uni.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Celui qui analyse, planifie et propose des méthodes.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Celui qui prend les décisions difficiles et vise le résultat.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Celui qui donne l’impulsion et pousse à agir.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Celui qui garde le lien avec le concret et le bon sens.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "parcours": ["amateur", "confirme"],
+      "type": "mono",
+      "question": "Pour toi, une bonne solution est avant tout une solution...",
+      "reponses": [
+        {
+          "textuel": "Juste et bénéfique pour le plus grand nombre.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Élégante, logique et améliorable.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Efficace, même si elle n’est pas agréable pour tout le monde.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Rapide, sincère et capable de débloquer la situation.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Simple, durable et en accord avec le réel.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "parcours": ["amateur", "confirme"],
+      "type": "multi",
+      "question": "Quelles valeurs sont les plus importantes pour toi ?",
+      "reponses": [
+        {
+          "textuel": "Justice, loyauté et protection.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Savoir, maîtrise et progrès.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Indépendance, réussite et lucidité.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Liberté, émotion et authenticité.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Harmonie, instinct et héritage.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "parcours": ["amateur", "confirme"],
+      "type": "mono",
+      "question": "Quand tu dois apprendre quelque chose de difficile, tu préfères...",
+      "reponses": [
+        {
+          "textuel": "Avoir une méthode guidée, claire et progressive.",
+          "couleurs": ["blanc", "bleu"]
+        },
+        {
+          "textuel": "Comprendre la théorie en profondeur avant la pratique.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Te concentrer sur ce qui donne les meilleurs résultats rapidement.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Tester directement, échouer, puis recommencer.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Apprendre par répétition, observation et expérience.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Tu découvres qu’une personne proche t’a menti pour te protéger. Que ressens-tu d’abord ?",
+      "reponses": [
+        {
+          "textuel": "Je veux comprendre si son intention était réellement protectrice.",
+          "couleurs": ["blanc", "vert"]
+        },
+        {
+          "textuel": "Je veux connaître toute la vérité, même si elle est inconfortable.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Je me demande surtout ce que ce mensonge lui a permis d’obtenir.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Je réagis émotionnellement, car la confiance a été touchée.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Je prends du recul pour voir si la relation peut retrouver son équilibre.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "parcours": ["confirme"],
+      "type": "multi",
+      "question": "Quels défauts acceptes-tu le plus facilement chez toi ?",
+      "reponses": [
+        {
+          "textuel": "Être parfois trop attaché aux règles ou aux responsabilités.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Trop réfléchir avant d’agir.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Être parfois trop centré sur tes propres objectifs.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Réagir trop vite sous le coup de l’émotion.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Résister au changement quand quelque chose te semble naturel.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Une personne très talentueuse refuse de suivre les règles du groupe. Que penses-tu ?",
+      "reponses": [
+        {
+          "textuel": "Le talent ne justifie pas de fragiliser le collectif.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Il faut comprendre si les règles freinent réellement son potentiel.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Si elle produit de meilleurs résultats, elle mérite plus de liberté.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Une personne forte doit pouvoir exprimer ce qu’elle est.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Chaque individu a sa nature, mais il doit trouver sa place dans l’ensemble.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Qu’est-ce qui te paraît le plus dangereux dans une société ?",
+      "reponses": [
+        {
+          "textuel": "L’absence de règles communes et de solidarité.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "L’ignorance, la manipulation et le refus de comprendre.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "La naïveté face aux personnes qui cherchent le pouvoir.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "La répression des émotions, des désirs et de la liberté.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "La rupture avec le vivant, les traditions et le bon sens.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "parcours": ["confirme"],
+      "type": "multi",
+      "question": "Dans une situation de crise, qu’est-ce qui te semble prioritaire ?",
+      "reponses": [
+        {
+          "textuel": "Protéger les personnes les plus vulnérables.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Comprendre exactement ce qui se passe.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Sécuriser les ressources et les leviers de décision.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Réagir vite pour ne pas rester paralysé.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Préserver ce qui peut encore tenir naturellement.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Quelle phrase te correspond le plus ?",
+      "reponses": [
+        {
+          "textuel": "Personne ne devrait être abandonné quand les choses deviennent difficiles.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Tout problème peut être compris si l’on prend le temps de l’analyser.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Le monde récompense rarement ceux qui n’osent pas prendre leur place.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Une vie sans passion ni liberté perd vite son sens.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "On avance mieux quand on accepte ce que l’on est profondément.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Tu dois choisir entre une solution ancienne qui fonctionne et une nouvelle solution prometteuse. Tu choisis plutôt...",
+      "reponses": [
+        {
+          "textuel": "L’ancienne solution si elle protège mieux la stabilité du groupe.",
+          "couleurs": ["blanc", "vert"]
+        },
+        {
+          "textuel": "La nouvelle solution si elle est logiquement meilleure.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Celle qui donne l’avantage le plus net, peu importe son âge.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "La nouvelle solution, parce qu’il faut parfois oser rompre avec l’habitude.",
+          "couleurs": ["rouge", "bleu"]
+        },
+        {
+          "textuel": "L’ancienne solution si elle a prouvé sa valeur avec le temps.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "parcours": ["confirme"],
+      "type": "multi",
+      "question": "Quelles formes de réussite te parlent le plus ?",
+      "reponses": [
+        {
+          "textuel": "Avoir construit quelque chose qui aide ou protège les autres.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Avoir atteint une vraie maîtrise intellectuelle ou technique.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Avoir gagné ton indépendance et ton influence.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Avoir vécu intensément sans trahir tes désirs.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Avoir trouvé ta place et transmis quelque chose de durable.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Quand quelqu’un remet ton avis en question, tu as tendance à...",
+      "reponses": [
+        {
+          "textuel": "Chercher un terrain d’entente qui respecte chacun.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Demander des arguments et examiner les faits.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Évaluer si cette personne a réellement l’autorité ou la compétence pour te contredire.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Répondre directement si tu sens que l’attaque est injuste.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Rester attaché à ton ressenti si ton expérience te dit que tu as raison.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Quelle idée te dérange le plus ?",
+      "reponses": [
+        {
+          "textuel": "Que chacun ne pense qu’à soi.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Que l’on choisisse l’ignorance plutôt que la vérité.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Que l’on te force à rester faible ou dépendant.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Que l’on t’empêche d’exprimer ce que tu ressens.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Que l’on détruise ce qui existait déjà sans comprendre sa valeur.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "parcours": ["confirme"],
+      "type": "multi",
+      "question": "Qu’est-ce que tu recherches dans une relation de confiance ?",
+      "reponses": [
+        {
+          "textuel": "La loyauté et le soutien mutuel.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "L’honnêteté intellectuelle et la clarté.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Le respect de l’indépendance et des limites de chacun.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "La sincérité émotionnelle et la spontanéité.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "La stabilité naturelle et le sentiment d’appartenance.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Tu dois choisir entre aider le groupe ou poursuivre ton objectif personnel. Que fais-tu ?",
+      "reponses": [
+        {
+          "textuel": "J’aide le groupe, car la responsabilité collective passe avant tout.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "J’analyse quelle option aura les meilleures conséquences à long terme.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Je poursuis mon objectif si personne d’autre ne peut le faire à ma place.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Je suis ce que je ressens comme juste sur le moment.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Je cherche l’option qui respecte le mieux ma place naturelle dans la situation.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Pour toi, la liberté consiste surtout à...",
+      "reponses": [
+        {
+          "textuel": "Vivre dans un cadre juste où chacun peut exister sans peur.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Pouvoir penser, apprendre et remettre les choses en question.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Ne dépendre de personne pour choisir ton destin.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Exprimer pleinement tes émotions, tes envies et tes choix.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Vivre selon ta nature profonde sans être artificiellement contraint.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "parcours": ["confirme"],
+      "type": "multi",
+      "question": "Quelles qualités aimerais-tu développer davantage ?",
+      "reponses": [
+        {
+          "textuel": "Discipline, patience et sens du devoir.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Lucidité, précision et capacité d’analyse.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Confiance, ambition et autonomie.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Audace, spontanéité et intensité.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Ancrage, instinct et acceptation.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Quand tu construis quelque chose sur le long terme, ta priorité est...",
+      "reponses": [
+        {
+          "textuel": "Que ce soit stable, clair et utile à plusieurs personnes.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Que ce soit améliorable, intelligent et bien pensé.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Que ce soit rentable en temps, en énergie ou en influence.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Que ce soit vivant, personnel et motivant.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Que ce soit solide, cohérent et capable de durer naturellement.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "Dans une histoire, quel type de personnage t’attire le plus ?",
+      "reponses": [
+        {
+          "textuel": "Celui qui protège les autres malgré le coût personnel.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Celui qui comprend les secrets du monde mieux que les autres.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Celui qui refuse d’être faible et prend son destin en main.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Celui qui suit son cœur, même quand cela crée du chaos.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Celui qui incarne une force ancienne, instinctive ou naturelle.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "parcours": ["confirme"],
+      "type": "multi",
+      "question": "Qu’est-ce qui te donne le plus envie d’agir ?",
+      "reponses": [
+        {
+          "textuel": "Une injustice à corriger.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Une énigme à comprendre.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Une opportunité à saisir.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Une émotion forte ou une envie immédiate.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Un déséquilibre à rétablir.",
+          "couleurs": ["vert"]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "parcours": ["confirme"],
+      "type": "mono",
+      "question": "À la fin d’une aventure difficile, qu’est-ce qui te semble le plus satisfaisant ?",
+      "reponses": [
+        {
+          "textuel": "Avoir sauvé ou réuni ceux qui comptaient.",
+          "couleurs": ["blanc"]
+        },
+        {
+          "textuel": "Avoir compris la vérité et progressé grâce à elle.",
+          "couleurs": ["bleu"]
+        },
+        {
+          "textuel": "Avoir gagné quelque chose qui te rend plus fort ou plus libre.",
+          "couleurs": ["noir"]
+        },
+        {
+          "textuel": "Avoir vécu quelque chose d’intense et mémorable.",
+          "couleurs": ["rouge"]
+        },
+        {
+          "textuel": "Avoir retrouvé ta place dans un monde plus apaisé.",
+          "couleurs": ["vert"]
+        }
+      ]
+    }
+  ]
+}
