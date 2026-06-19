@@ -1,6 +1,6 @@
 import type { Meta, StoryObj } from '@storybook/react-vite'
 import Formulaire from './index'
-import { questionFirstQuestion, questionLastQuestion, questionMono, questionMulti } from '../../../domain/models/__stubs__/QuestionStub'
+import { questionFirstQuestion, questionLastQuestion, questionMono, questionMulti, questionFirstQuestionMulti } from '../../../domain/models/__stubs__/QuestionStub'
 
 const meta = {
   title: 'Composants/Formulaire',
@@ -46,5 +46,12 @@ export const MiddleQuestion: Story = {
   args: {
     question: questionMono,
     lastIndex: 20,
+  },
+}
+
+export const FirstQuestionMulti: Story = {
+  args: {
+    question: questionFirstQuestionMulti,
+    lastIndex: 10,
   },
 }

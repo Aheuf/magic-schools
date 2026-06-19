@@ -1,4 +1,4 @@
-import React, { type ReactElement } from 'react'
+import { type ReactElement } from 'react'
 import type { Question } from '../../../domain/models/Question'
 import RadioButton from '../Radio'
 import Checkbox from '../checkbox'
@@ -13,19 +13,19 @@ export default function Formulaire({ question, lastIndex }: Props) {
 
   const getButtons = (): ReactElement => {
     if (question.id === 1) {
-      return <Button action={() => {}} value='Question suivante' arrow='right'/>
+      return <Button className="solo-button" action={() => {}} value='Question suivante' arrow='right'/>
     }
 
     if (question.id === lastIndex) {
-      return <>
+      return <div className="button-container">
         <Button action={() => {}} value='Question précédente' arrow='left'/>
         <Button action={() => {}} value='Voir mon resultat'/>
-      </>
+      </div>
     }
-    return <>
+    return <div className="button-container">
       <Button action={() => {}} value='Question précédente' arrow='left'/>
       <Button action={() => {}} value='Question suivante' arrow='right'/>
-    </>
+    </div>
 
   }
 

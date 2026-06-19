@@ -17,8 +17,8 @@ export default function RadioButton({reponses}: Props) {
       {reponses.map((reponse, index) => 
         <div key={index} className={`input-container ${selectedIndex === index ? 'checked' : ''}`} onClick={() => handleChange(index)}>
           <input 
-            type="radio" 
-            id={`${index}`} 
+            type="radio"
+            id={`${index}`}
             name="reponse"
             checked={selectedIndex === index}
             onChange={() => handleChange(index)}

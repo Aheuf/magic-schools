@@ -83,3 +83,24 @@ export const questionLastQuestion: Question = {
     },
   ],
 }
+
+export const questionFirstQuestionMulti: Question = {
+  id: 1,
+  parcours: [NiveauEnum.DEBUTANT],
+  type: 'multi',
+  question: 'Première question avec multiple réponses',
+  reponses: [
+    {
+      textuel: 'Option 1',
+      couleur: [couleurEnum.BLANC],
+    },
+    {
+      textuel: 'Option 2',
+      couleur: [couleurEnum.BLEU],
+    },
+    {
+      textuel: 'Option 3',
+      couleur: [couleurEnum.NOIR],
+    },
+  ],
+}
