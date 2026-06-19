@@ -22,5 +22,6 @@ export enum couleurEnum {
   BLEU="bleu",
   NOIR="noir",
   ROUGE="rouge",
-  VERT="vert"
+  VERT="vert",
+  AUCUNE = ""
 }

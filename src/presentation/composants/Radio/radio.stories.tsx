@@ -26,5 +26,15 @@ const sampleReponses: Reponse[] = [
 export const Basic: RadioStory = {
   args: {
     reponses: sampleReponses,
+    handleClick: () => {},
+    selectedResponse: undefined,
+  },
+}
+
+export const Selected: RadioStory = {
+  args: {
+    reponses: sampleReponses,
+    handleClick: () => {},
+    selectedResponse: 2,
   },
 }
