@@ -14,6 +14,22 @@ export default meta
 export const Basic: ButtonStory = {
   args: {
     value: "Cliquez",
-    action: () => undefined,
+    action: () => {},
+  },
+}
+
+export const WithArrowLeft: ButtonStory = {
+  args: {
+    arrow: "left",
+    value: "Retour",
+    action: () => {},
+  },
+}
+
+export const WithArrowRight: ButtonStory = {
+  args: {
+    arrow: "right",
+    value: "Suivant",
+    action: () => {},
   },
 }
